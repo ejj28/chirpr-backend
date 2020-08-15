@@ -4,9 +4,12 @@
   "description": "Backend for Chirpr",
   "main": "index.js",
   "scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node ."
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "author": "ejj28",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
