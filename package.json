@@ -1,0 +1,11 @@
+{
+  "name": "chirpr-backend",
+  "version": "1.0.0",
+  "description": "Backend for Chirpr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ejj28",
+  "license": "ISC"
+}
