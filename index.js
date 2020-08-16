@@ -4,8 +4,10 @@ var url = "mongodb://localhost:27017/";
 var express = require("express");
 var app = express();
 var bodyParser = require('body-parser')
+var cors = require('cors')
 
 app.use(bodyParser.json());
+app.use(cors());
 
 
 
